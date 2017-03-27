@@ -14,7 +14,9 @@
     <TextView
         android:text="From, Kevin"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"/>
 
     <ImageView
         android:src="@drawable/androidparty"
